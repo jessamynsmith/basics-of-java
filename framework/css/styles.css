@@ -577,7 +577,7 @@ code {
 /* Styles specific to this workshop
 ------------------------------------*/
 .slide.intro {
-  background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(../img/workshop/eu_computer_camp.jpg) no-repeat;
+  background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(../img/workshop/brio_shanti_me_laptop.jpg) no-repeat;
   background-size: cover; }
 
 .steps img {
